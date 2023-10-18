@@ -1,5 +1,1 @@
-Mensagem de teste
-
-Segunda mensagem de teste
-
-Teceira mensagem de teste
+Texto para demonstração do diff
